@@ -96,7 +96,7 @@ SSH into the control node and follow the steps below:
 - Update the config file to include...the IP address of your Elk machine
 - Run the playbook, and navigate to Filebeat installation page on the Elk server GUI to check that the installation worked as expected.
 
-: Answer the following questions to fill in the blanks:_
+
 - You copy the filebeat-playbook.yml to the ansilbe container
 - Update the filebeat-config.yml The Web-1 VM needs to included the file with the Elk server IP address.
 - http://20.55.65.135:5601/app/kibana.
